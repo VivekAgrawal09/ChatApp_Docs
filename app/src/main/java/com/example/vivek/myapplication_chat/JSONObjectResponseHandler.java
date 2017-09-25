@@ -4,8 +4,6 @@ import com.android.volley.VolleyError;
 
 import org.json.JSONObject;
 
-import java.util.Map;
-
 /**
  * Created by pratim on 11/8/16.
  */
